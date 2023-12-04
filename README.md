@@ -1,1 +1,1 @@
-<img src="images/borb.jpg">
+<img src="images/papucha.jpg">
