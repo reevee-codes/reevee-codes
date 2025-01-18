@@ -12,4 +12,4 @@ Dziękuję ci.
 Jacek Kaczmarski
 2.10.1992
 ```
-rb.gy/77c1mh
+[Jacek Kaczmarski - Jan Kochanowski](rb.gy/77c1mh)
