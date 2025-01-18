@@ -1,15 +1,2 @@
-```
-Tylu bliskich i dalekich dzień po dniu odchodzi,
-A ja żyję w lat bogactwie, co mi schyłek słodzi
-
-Im mniej cię co dzień, miodzie –
-Tym mi smakujesz słodziej:
-I słońcem i księżycem,
-Rozkoszą nienasyceń,
-Szczodrością moich dni –
-Dziękuję ci.
-
-2.10.1992
-```
-[Jacek Kaczmarski - Jan Kochanowski](https://www.youtube.com/watch?v=dm1ykMcE9gw)\
+[promoting Kaczmarski](https://www.youtube.com/watch?v=JENxnESv-W4)\
 [Avatar artist credits](https://karolina-cicholska.carrd.co)
