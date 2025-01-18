@@ -10,5 +10,6 @@ Szczodrością moich dni –
 Dziękuję ci.
 
 2.10.1992
-[Jacek Kaczmarski - Jan Kochanowski](https://www.youtube.com/watch?v=dm1ykMcE9gw)
 ```
+[Jacek Kaczmarski - Jan Kochanowski](https://www.youtube.com/watch?v=dm1ykMcE9gw)
+[Avatar artist credits](https://karolina-cicholska.carrd.co)
