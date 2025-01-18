@@ -11,4 +11,4 @@ Dziękuję ci.
 
 2.10.1992
 ```
-[Jacek Kaczmarski - Jan Kochanowski](rb.gy/77c1mh)
+[Jacek Kaczmarski - Jan Kochanowski](https://www.youtube.com/watch?v=dm1ykMcE9gw)
