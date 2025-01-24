@@ -7,6 +7,7 @@
 - 🔭 I’m currently working at as an SDET
 - 💬 Ask me about **Java, Automation and birds**
 - ✨ Socially awkward but happy to create projects together
+  
   -------
   
 📊 Weekly development breakdown
