@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working at as an SDET
-- 💬 Ask me about **Java, Automation and birds**
+- - 💬 Ask me about **Java, Automation and birds**
   -------
   
 📊 Weekly development breakdown
