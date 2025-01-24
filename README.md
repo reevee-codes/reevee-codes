@@ -1,5 +1,14 @@
+<h2 align="center">👋 Hello, I am Martyna!</h2>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JENxnESv-W4">Shameless Kaczmarski promotion</a> •
+  <a href="https://karolina-cicholska.carrd.co">Avatar artist credits!</a>
+</p>
+
+- 🔭 I’m currently working at as an SDET
+  
+  -------
+  
+📊 Weekly development breakdown
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-[promoting Kaczmarski](https://www.youtube.com/watch?v=JENxnESv-W4)\
-[Avatar artist credits](https://karolina-cicholska.carrd.co)
