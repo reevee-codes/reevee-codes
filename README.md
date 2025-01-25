@@ -4,7 +4,8 @@
   <a href="https://karolina-cicholska.carrd.co">Avatar artist credits!</a>
 </p>
 
-- 🔭 I’m currently working as an Senior SDET
+- 🔭 I’m currently working as an Senior SDET, full stack
+- 🎩 I've also worked as Java Backend Developer
 - 💬 Ask me about **Java, Automation and birds**
 - ✨ Socially awkward but happy to create projects together
   
