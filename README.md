@@ -7,7 +7,6 @@
 - 🔭 I’m currently working as an Senior SDET, full stack
 - 🎩 I've also worked as Java Backend Developer
 - 💬 Ask me about **Java, Automation and birds**
-- ✨ You can count on me for doing projects together, especially related to poetry, mental health, birds and art
   
   -------
   
