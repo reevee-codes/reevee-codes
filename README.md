@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working as an Senior SDET, full stack
-- 🎩 I've also worked as Java Backend Developer
+- 🎩 I've also worked as Java Developer
 - 💬 Ask me about **Java, Automation and birds**
   
   -------
