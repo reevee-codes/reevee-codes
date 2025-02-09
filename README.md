@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java      6 mins          ██████████████████▓░░░░░░   74.65 %
-Gherkin   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
