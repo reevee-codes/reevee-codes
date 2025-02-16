@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I am Martyna!</h2>
+<h2 align="center">Welcome to my github page!</h2>
 
 - 🔭 I’m currently working as an Senior Test Automation Engineer (Software Developer in Test/SDET)
 - 🎩 Testing isn't about assuring quality—it's about diagnosing the state of an application. A tester doesn't guarantee quality but provides critical insights to improve it.
