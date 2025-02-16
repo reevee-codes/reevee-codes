@@ -1,8 +1,8 @@
 <h2 align="center">Welcome to my github page!</h2>
 
-- 🔭 I’m currently working as an Senior Test Automation Engineer (Software Developer in Test/SDET)
-- 🎩 Testing isn't about assuring quality—it's about diagnosing the state of an application. A tester doesn't guarantee quality but provides critical insights to improve it.
-- ✨ I don’t believe in manual testers who lack understanding of technology and programming. A tester has to be a developer—just a developer specialised in automation and load tests, ideally with a security background.
+- 🔭 I’m currently working as an Senior Test Automation Engineer (Software Developer in Test/SDET) where I am ensuring test automation is an integral part of the development process.
+- 🎩 Testing isn't about assuring quality—it's about diagnosing the state of an application. An SDET doesn't guarantee quality but provides critical insights to improve it.
+- ✨ I also code other things and worked as Java Developer
 - 💬 Ask me about **Java, Automation and birds**
   
   -------
