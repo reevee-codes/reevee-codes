@@ -1,11 +1,8 @@
-<h2 align="center">🐦‍⬛ Hello, I am Martyna!</h2>
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=JENxnESv-W4">Shameless Kaczmarski promotion</a> •
-  <a href="https://karolina-cicholska.carrd.co">Avatar artist credits!</a>
-</p>
+<h2 align="center">Hello, I am Martyna!</h2>
 
-- 🔭 I’m currently working as an Senior SDET, full stack
-- 🎩 I've also worked as Java Developer
+- 🔭 I’m currently working as an Senior Test Automation Engineer (Software Developer in Test/SDET)
+- 🎩 Testing isn't about assuring quality—it's about diagnosing the state of an application. A tester doesn't guarantee quality but provides critical insights to improve it.
+- ✨ I don’t believe in manual testers who lack understanding of technology and programming. A tester has to be a developer—just a developer specialised in automation and load tests, ideally with a security background.
 - 💬 Ask me about **Java, Automation and birds**
   
   -------
