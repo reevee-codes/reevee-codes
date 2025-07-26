@@ -1,9 +1,8 @@
-<h2 align="center">Welcome to my github page!</h2>
+<h2 align="center">Hey!</h2>
 
-- 🔭 I’m currently working as an Senior Test Automation Engineer (Software Developer in Test/SDET) where I am ensuring test automation is an integral part of the development process
-- 🎩 Testing isn't about assuring quality—it's about diagnosing the state of an application. An SDET doesn't guarantee quality but provides critical insights to improve it
-- ✨ I also worked as Java Developer
-- 💬 Ask me about **Java, Automation struggles and birds**
+- I currently work as a Senior Test Automation Engineer, driving the integration of automated testing as a core component of the software development lifecycle
+- Exploring a new project? I'm happy to support meaningful initiatives on a pro bono basis when the concept is compelling
+-  available for paid engagements on both a project and hourly basis — offering end-to-end design and implementation of robust test automation frameworks across frontend and backend systems
   
   -------
   
