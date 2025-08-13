@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 30 mins   ██████████████░░░░░░░░░░░   55.86 %
-Gherkin           3 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.82 %
-Java Properties   42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Properties        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Groovy            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Java              5 hrs 1 min     ████████████▓░░░░░░░░░░░░   50.83 %
+Gherkin           3 hrs 22 mins   ████████▓░░░░░░░░░░░░░░░░   34.18 %
+Java Properties   34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Python            26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Properties        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
 ```
 
 <!--END_SECTION:waka-->
