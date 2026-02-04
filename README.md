@@ -47,5 +47,7 @@ Markdown           20 mins         ▓░░░░░░░░░░░░░░
 </p>
 <h3 align="left">Upskilling:</h3>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="linux"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="kotlin" width="40" height="40"/>	
 </p>      
