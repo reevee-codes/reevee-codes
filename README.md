@@ -6,7 +6,7 @@ Full-time Lead Test Automation Engineer (enterprise environment) & independent S
 I help teams reduce regression risk, accelerate release cycles, and
 build maintainable engineering ecosystems.<br>  
 Based in Poland (CET/CEST), available for international
-collaboration.
+collaboration.   Experience with global banking, fintech, e‑commerce, and airline systems.
 </div>
 
 ---
