@@ -1,4 +1,4 @@
-<h3 align="center">Software & AI Engineer | Test automation architect</h2>
+<h3 align="center">Software & AI Engineer | Test automation architect</h3>
 📩 **Contact:** reeveecommission (at) gmail (dot) com
 
 ------------------------------------------------------------------------
