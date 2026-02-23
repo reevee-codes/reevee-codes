@@ -1,5 +1,5 @@
 <h2 align="center">Software & AI Engineer | Test automation architect</h2>
-
+📩 **Contact:** reeveecommission (at) gmail (dot) com
 I work full-time as a **Lead Test Automation Engineer** and operate independently as a **Software & AI Consultant**.
 I specialize in building scalable automation ecosystems, backend systems, and AI-driven engineering solutions.
 My focus is on architecture, reliability, and measurable impact.
@@ -65,10 +65,6 @@ I prioritize clean architecture, maintainability, and long-term scalability.
 The more ambitious and technically demanding the challenge, the more engaged I become.
 
 I am open to contributing to meaningful or innovative initiatives on a pro bono basis when the concept aligns with strong technical or social value.
-
----
-
-📩 **Contact:** reeveecommission (at) gmail (dot) com
 
 ---
 
