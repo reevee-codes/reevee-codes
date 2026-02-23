@@ -1,7 +1,7 @@
 <h3 align="center">Software & AI Engineer | Test automation architect</h3>
 📩 **Contact:** reeveecommission (at) gmail (dot) com
 
-------------------------------------------------------------------------
+---
 
 I help teams reduce regression risk, accelerate release cycles, and
 build maintainable engineering ecosystems.
@@ -11,7 +11,7 @@ Independent Software & AI consultant.\
 Based in Poland (CET/CEST) --- available for international
 collaboration.
 
-------------------------------------------------------------------------
+---
 
 #### Services --- 53 USD/hour
 
@@ -24,14 +24,16 @@ collaboration.
 
 Custom technical engagements available upon request.
 
-------------------------------------------------------------------------
+---
 
 #### Engagement model
 
 -   Project-based collaboration
 -   Hourly consulting
 -   Long-term technical partnership
-------------------------------------------------------------------------
+  
+---
+
 #### Volume Packages
 
 -   10-hour prepaid package --- 47 USD/hour\
@@ -39,7 +41,7 @@ Custom technical engagements available upon request.
 
 Fast start. Clear scope. Measurable results with technical documentation.
 
-------------------------------------------------------------------------
+---
 
 #### Business Information
 
@@ -51,7 +53,8 @@ Polish clients: 23% VAT where applicable\
 EU B2B: Reverse charge (VAT 0%)\
 EU private individuals: VAT may apply according to EU regulations\
 Clients outside the European Union: VAT not applicable
-------------------------------------------------------------------------
+
+---
 
 #### How I work
 
@@ -63,14 +66,14 @@ Clients outside the European Union: VAT not applicable
 
 Technically demanding challenge? Let's do it together.
 
-------------------------------------------------------------------------
+---
 
 #### Expertise
 
 Test Automation · QA Architecture · Backend Engineering · AI Tooling ·
 CI/CD · API Testing · Java · Python · Playwright · Selenium · Spring
 Boot · Security Testing · OWASP · SaaS Systems · AI Engineering · Testing of AI systems
-------------------------------------------------------------------------
+---
   
 📊 Weekly development breakdown
 
