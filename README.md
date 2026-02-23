@@ -70,11 +70,7 @@ Technically demanding challenge? Let's do it together.
 Test Automation · QA Architecture · Backend Engineering · AI Tooling ·
 CI/CD · API Testing · Java · Python · Playwright · Selenium · Spring
 Boot · Security Testing · OWASP · SaaS Systems · AI Engineering · Testing of AI systems
-
-
-  -------
-
-  -------
+------------------------------------------------------------------------
   
 📊 Weekly development breakdown
 
