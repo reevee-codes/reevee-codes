@@ -1,7 +1,8 @@
-<h2 align="center">Software & AI Engineer | Test Automation Architect</h2>
+<h2 align="center">Software & AI Engineer | Test automation architect</h2>
 
 I work full-time as a **Lead Test Automation Engineer** and operate independently as a **Software & AI Consultant**.
-I specialize in building scalable automation ecosystems, backend systems, and AI-driven engineering solutions. My focus is on architecture, reliability, and measurable impact.
+I specialize in building scalable automation ecosystems, backend systems, and AI-driven engineering solutions.
+My focus is on architecture, reliability, and measurable impact.
 
 ---
 
