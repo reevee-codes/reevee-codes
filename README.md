@@ -1,72 +1,78 @@
-<h2 align="center">Software & AI Engineer | Test automation architect</h2>
+<h3 align="center">Software & AI Engineer | Test automation architect</h2>
 📩 **Contact:** reeveecommission (at) gmail (dot) com
-I work full-time as a **Lead Test Automation Engineer** and operate independently as a **Software & AI Consultant**.
-I specialize in building scalable automation ecosystems, backend systems, and AI-driven engineering solutions.
-My focus is on architecture, reliability, and measurable impact.
 
----
+------------------------------------------------------------------------
 
-## 💼 Services
+I help teams reduce regression risk, accelerate release cycles, and
+build maintainable engineering ecosystems.
 
-### Core engineering & automation — 60 USD/hour
-- End-to-end test automation architecture (frontend & backend)
-- Framework design and implementation
-- CI/CD-integrated validation pipelines
-- API and backend system validation
-- Java & Python application development
+Full-time Lead Test Automation Engineer for a corporate client.\
+Independent Software & AI consultant.\
+Based in Poland (CET/CEST) --- available for international
+collaboration.
 
-### QA & security assessment — 70 USD/hour
-- Structured exploratory and regression testing
-- Risk-oriented validation strategy
-- Surface exposure analysis (OSINT-based review)
-- Initial vulnerability identification & structured reporting
-- OWASP-aligned security review
+------------------------------------------------------------------------
 
-### AI & custom tooling — 70 USD/hour
-- AI-assisted automation systems
-- Custom developer productivity tools
-- Intelligent testing workflows
-- LLM-powered internal tools
+#### Services --- 53 USD/hour
 
-### Teaching & Technical Writing — 60 USD/hour
+-   End-to-end test automation architecture
+-   Backend & API validation
+-   Framework design & implementation
+-   Java & Python software development
+-   AI-powered tooling & intelligent workflows
+-   Reliability & security-focused testing (OWASP-aligned)
 
-Custom engagements are available upon request.
+Custom technical engagements available upon request.
 
----
+------------------------------------------------------------------------
 
-## 📦 Engagement model
+#### Engagement model
 
-- Project-based collaboration
-- Hourly consulting
-- Long-term technical partnership
+-   Project-based collaboration
+-   Hourly consulting
+-   Long-term technical partnership
+------------------------------------------------------------------------
+#### Volume Packages
 
-Prepaid 10-hour packages qualify for a reduced rate.
+-   10-hour prepaid package --- 47 USD/hour\
+-   25-hour prepaid package --- 45 USD/hour
 
-Pricing is flexible and may be adjusted depending on scope, technical complexity, and long-term cooperation.
+Fast start. Clear scope. Measurable results with technical documentation.
 
----
+------------------------------------------------------------------------
 
-## 💰 VAT Information
+#### Business Information
 
-All rates are listed as net amounts.
+I operate as a registered business entity and issue VAT
+invoices.  
+All rates are net amounts.
 
-Polish clients are subject to 23% VAT where applicable.  
-EU business clients with a valid VAT number are invoiced under the reverse charge mechanism (VAT 0%).  
-EU private individuals may be subject to VAT in accordance with EU regulations.  
-Clients outside the European Union are not subject to VAT.
+Polish clients: 23% VAT where applicable\
+EU B2B: Reverse charge (VAT 0%)\
+EU private individuals: VAT may apply according to EU regulations\
+Clients outside the European Union: VAT not applicable
+------------------------------------------------------------------------
 
----
+#### How I work
 
-## 🧠 approach
+-   Fast onboarding
+-   Clear communication
+-   Clean, maintainable architecture with technical documentation and knowledge transfer
+-   Outcome-driven execution
+-   Long-term scalability focus
 
-I adapt quickly to new technologies and complex domains.  
-I prioritize clean architecture, maintainability, and long-term scalability.
+Technically demanding challenge? Let's do it together.
 
-The more ambitious and technically demanding the challenge, the more engaged I become.
+------------------------------------------------------------------------
 
-I am open to contributing to meaningful or innovative initiatives on a pro bono basis when the concept aligns with strong technical or social value.
+#### Expertise
 
----
+Test Automation · QA Architecture · Backend Engineering · AI Tooling ·
+CI/CD · API Testing · Java · Python · Playwright · Selenium · Spring
+Boot · Security Testing · OWASP · SaaS Systems · AI Engineering · Testing of AI systems
+
+
+  -------
 
   -------
   
