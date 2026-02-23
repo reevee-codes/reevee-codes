@@ -53,8 +53,9 @@ Clients outside the European Union: VAT not applicable
 -   Clean, maintainable architecture with technical documentation and knowledge transfer
 -   Outcome-driven execution
 -   Long-term scalability focus
--   
-Technically demanding challenge? Let's do it together.  
+
+Technically demanding challenge? Let's do it together.
+
 ---
   
 📊 Weekly development breakdown  
@@ -71,7 +72,7 @@ Markdown           17 mins               █░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<h3 align="left">Technologies:</h3>
+<h4 align="left">Technologies:</h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -97,12 +98,14 @@ Markdown           17 mins               █░░░░░░░░░░░░
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" alt="linux"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </p>
-<h3 align="left">Upskilling:</h3>
+<h4 align="left">Upskilling:</h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript"  width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="kotlin" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 </p>
+
+---
 <sub>Test Automation · QA Architecture · Backend Engineering · AI Tooling ·
 CI/CD · API Testing · Java · Python · Playwright · Selenium · Spring
 Boot · Security Testing · OWASP · SaaS Systems · AI Engineering · Testing of AI systems
