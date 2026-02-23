@@ -1,15 +1,13 @@
-<h3 align="center">Software & AI Engineer | Test automation architect</h3>
-📩 **Contact:** reeveecommission (at) gmail (dot) com
+<h2 align="center">Software & AI Engineer | Test automation architect</h3>
+<h3 align="center">📩Contact: reeveecommission (at) gmail (dot) com </h3>
 
----
-
+<div align="center">
+Full-time Lead Test Automation Engineer (enterprise environment) & independent Software and AI consultant.<br>
 I help teams reduce regression risk, accelerate release cycles, and
-build maintainable engineering ecosystems.
-
-Full-time Lead Test Automation Engineer (enterprise environment).\
-Independent Software & AI consultant.\
+build maintainable engineering ecosystems.<br>  
 Based in Poland (CET/CEST), available for international
 collaboration.
+</div>
 
 ---
 
@@ -34,12 +32,11 @@ Custom technical engagements available upon request.
   
 ---
 
-#### Volume Packages
+#### Volume packages
 
 -   10-hour prepaid package - 47 USD/hour
 -   25-hour prepaid package - 45 USD/hour
 
-Fast start. Clear scope. Measurable results with technical documentation.
 
 ---
 
