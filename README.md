@@ -20,15 +20,8 @@ collaboration.
 -   AI-powered tooling & intelligent workflows
 -   Reliability & security-focused testing (OWASP-aligned)
 
-Custom technical engagements available upon request.
-
----
-
-#### Engagement model
-
--   Project-based collaboration
--   Hourly consulting
--   Long-term technical partnership
+Custom technical engagements available upon request.  
+I work with project-based collaboration, hourly consulting and long-term technical partnership.  
   
 ---
 
@@ -60,22 +53,12 @@ Clients outside the European Union: VAT not applicable
 -   Clean, maintainable architecture with technical documentation and knowledge transfer
 -   Outcome-driven execution
 -   Long-term scalability focus
-
-Technically demanding challenge? Let's do it together.
-
----
-
-#### Expertise
-
-Test Automation · QA Architecture · Backend Engineering · AI Tooling ·
-CI/CD · API Testing · Java · Python · Playwright · Selenium · Spring
-Boot · Security Testing · OWASP · SaaS Systems · AI Engineering · Testing of AI systems
-· Test Automation Engineer · Test Automation Architect · Backend Developer · AI Integration · LLM Automation
-
+-   
+Technically demanding challenge? Let's do it together.  
 ---
   
-📊 Weekly development breakdown
-
+📊 Weekly development breakdown  
+<sub>"Other" primarily represents research and planning.</sub>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -119,5 +102,8 @@ Markdown           17 mins               █░░░░░░░░░░░░
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript"  width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="kotlin" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-
-</p>      
+</p>
+<sub>Test Automation · QA Architecture · Backend Engineering · AI Tooling ·
+CI/CD · API Testing · Java · Python · Playwright · Selenium · Spring
+Boot · Security Testing · OWASP · SaaS Systems · AI Engineering · Testing of AI systems
+· Test Automation Engineer · Test Automation Architect · Backend Developer · AI Integration · LLM Automation</sub>
