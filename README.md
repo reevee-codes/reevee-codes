@@ -6,14 +6,14 @@
 I help teams reduce regression risk, accelerate release cycles, and
 build maintainable engineering ecosystems.
 
-Full-time Lead Test Automation Engineer for a corporate client.\
+Full-time Lead Test Automation Engineer (enterprise environment).\
 Independent Software & AI consultant.\
 Based in Poland (CET/CEST) --- available for international
 collaboration.
 
 ---
 
-#### Services --- 53 USD/hour
+#### Services - 53 USD/hour
 
 -   End-to-end test automation architecture
 -   Backend & API validation
@@ -73,6 +73,7 @@ Technically demanding challenge? Let's do it together.
 Test Automation · QA Architecture · Backend Engineering · AI Tooling ·
 CI/CD · API Testing · Java · Python · Playwright · Selenium · Spring
 Boot · Security Testing · OWASP · SaaS Systems · AI Engineering · Testing of AI systems
+· Test Automation Engineer · Test Automation Architect · Backend Developer · AI Integration · LLM Automation
 ---
   
 📊 Weekly development breakdown
