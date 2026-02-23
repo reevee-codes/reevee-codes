@@ -1,37 +1,76 @@
-<h2 align="center">Hey!</h2>
+<h2 align="center">Software & AI Engineer | Test Automation Architect</h2>
 
-# 👋 About me
+I work full-time as a **Lead Test Automation Engineer** and operate independently as a **Software & AI Consultant**.
+I specialize in building scalable automation ecosystems, backend systems, and AI-driven engineering solutions. My focus is on architecture, reliability, and measurable impact.
 
-I work as freelance **Software & AI Engineer** and full time **Lead Test Automation Engineer**.
+---
 
-## 💼 What I do
+## 💼 Services
 
-- End-to-end test automation architecture (frontend & backend) (50USD/hour)
-- Manual Testing & security assessment (entry-Level) (50 USD/hour) (structured exploratory and regression testing, test case design and defect analysis, basic security reconnaissance /OSINT, surface exposure review/, initial vulnerability identification and reporting)  
-- Framework design and implementation (50USD/hour)
-- API and backend system validation (50USD/hour)
-- Java & Python application development (40USD/hour)
-- AI-driven tooling and automation solutions (30USD/hour)
-- System design & technical consulting (50USD/hour)
-- Teaching, Technical Writing (60USD/hour)
-- Something else? Feel free to reach out.
+### Core engineering & automation — 60 USD/hour
+- End-to-end test automation architecture (frontend & backend)
+- Framework design and implementation
+- CI/CD-integrated validation pipelines
+- API and backend system validation
+- Java & Python application development
 
-I am available for both **project-based** and **hourly engagements**.
+### QA & security assessment — 70 USD/hour
+- Structured exploratory and regression testing
+- Risk-oriented validation strategy
+- Surface exposure analysis (OSINT-based review)
+- Initial vulnerability identification & structured reporting
+- OWASP-aligned security review
+
+### AI & custom tooling — 70 USD/hour
+- AI-assisted automation systems
+- Custom developer productivity tools
+- Intelligent testing workflows
+- LLM-powered internal tools
+
+### Teaching & Technical Writing — 60 USD/hour
+
+Custom engagements are available upon request.
+
+---
+
+## 📦 Engagement model
+
+- Project-based collaboration
+- Hourly consulting
+- Long-term technical partnership
+
+Prepaid 10-hour packages qualify for a reduced rate.
+
+Pricing is flexible and may be adjusted depending on scope, technical complexity, and long-term cooperation.
+
+---
+
+## 💰 VAT Information
+
 All rates are listed as net amounts.
-Polish clients are subject to 23% VAT where applicable.
-EU business clients with a valid VAT number are invoiced under the reverse charge mechanism (VAT 0%).
-EU private individuals may be subject to VAT in accordance with applicable EU regulations.
+
+Polish clients are subject to 23% VAT where applicable.  
+EU business clients with a valid VAT number are invoiced under the reverse charge mechanism (VAT 0%).  
+EU private individuals may be subject to VAT in accordance with EU regulations.  
 Clients outside the European Union are not subject to VAT.
-Prepaid 10-hour bookings qualify for a reduced hourly rate.
-Rates are negotiable depending on scope, complexity, and long-term cooperation.
+
+---
+
+## 🧠 approach
+
+I adapt quickly to new technologies and complex domains.  
+I prioritize clean architecture, maintainability, and long-term scalability.
+
+The more ambitious and technically demanding the challenge, the more engaged I become.
+
+I am open to contributing to meaningful or innovative initiatives on a pro bono basis when the concept aligns with strong technical or social value.
+
+---
+
 📩 **Contact:** reeveecommission (at) gmail (dot) com
 
-## Approach
+---
 
-I learn new technologies with pleasurem driven by continuous learning and a team player.
-The more ambitious, unconventional, or technically demanding the problem is, the more interested I am. Let's do it together!
-If you're exploring a meaningful or innovative initiative, I’m open to supporting compelling concepts on a **pro bono basis**. It's fun for me.
-  
   -------
   
 📊 Weekly development breakdown
