@@ -1,8 +1,36 @@
 <h2 align="center">Hey!</h2>
 
-- I currently work as a Lead Test Automation Engineer, driving the integration of automated testing as a core component of the software development lifecycle
-- Exploring a new project? I'm happy to support meaningful initiatives on a pro bono basis when the concept is compelling
--  available for paid engagements on both a project and hourly basis — offering end-to-end design and implementation of robust test automation frameworks across frontend and backend systems and development of java/python applications
+# 👋 About me
+
+I work as freelance **Software & AI Engineer** and full time **Lead Test Automation Engineer**.
+
+## 💼 What I do
+
+- End-to-end test automation architecture (frontend & backend) (50USD/hour)
+- Manual Testing & security assessment (entry-Level) (50 USD/hour) (structured exploratory and regression testing, test case design and defect analysis, basic security reconnaissance /OSINT, surface exposure review/, initial vulnerability identification and reporting)  
+- Framework design and implementation (50USD/hour)
+- API and backend system validation (50USD/hour)
+- Java & Python application development (40USD/hour)
+- AI-driven tooling and automation solutions (30USD/hour)
+- System design & technical consulting (50USD/hour)
+- Teaching, Technical Writing (60USD/hour)
+- Something else? Feel free to reach out.
+
+I am available for both **project-based** and **hourly engagements**.
+All rates are listed as net amounts.
+Polish clients are subject to 23% VAT where applicable.
+EU business clients with a valid VAT number are invoiced under the reverse charge mechanism (VAT 0%).
+EU private individuals may be subject to VAT in accordance with applicable EU regulations.
+Clients outside the European Union are not subject to VAT.
+Prepaid 10-hour bookings qualify for a reduced hourly rate.
+Rates are negotiable depending on scope, complexity, and long-term cooperation.
+📩 **Contact:** reeveecommission (at) gmail (dot) com
+
+## Approach
+
+I learn new technologies with pleasurem driven by continuous learning and a team player.
+The more ambitious, unconventional, or technically demanding the problem is, the more interested I am. Let's do it together!
+If you're exploring a meaningful or innovative initiative, I’m open to supporting compelling concepts on a **pro bono basis**. It's fun for me.
   
   -------
   
@@ -43,11 +71,13 @@ Markdown           17 mins               █░░░░░░░░░░░░
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="linux"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="linux"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" alt="linux"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" alt="linux"  width="40" height="40"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" alt="linux"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </p>
 <h3 align="left">Upskilling:</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="kotlin" width="40" height="40"/>	
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="kotlin" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+
 </p>      
