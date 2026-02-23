@@ -8,7 +8,7 @@ build maintainable engineering ecosystems.
 
 Full-time Lead Test Automation Engineer (enterprise environment).\
 Independent Software & AI consultant.\
-Based in Poland (CET/CEST) --- available for international
+Based in Poland (CET/CEST), available for international
 collaboration.
 
 ---
@@ -36,8 +36,8 @@ Custom technical engagements available upon request.
 
 #### Volume Packages
 
--   10-hour prepaid package --- 47 USD/hour\
--   25-hour prepaid package --- 45 USD/hour
+-   10-hour prepaid package - 47 USD/hour
+-   25-hour prepaid package - 45 USD/hour
 
 Fast start. Clear scope. Measurable results with technical documentation.
 
@@ -74,6 +74,7 @@ Test Automation · QA Architecture · Backend Engineering · AI Tooling ·
 CI/CD · API Testing · Java · Python · Playwright · Selenium · Spring
 Boot · Security Testing · OWASP · SaaS Systems · AI Engineering · Testing of AI systems
 · Test Automation Engineer · Test Automation Architect · Backend Developer · AI Integration · LLM Automation
+
 ---
   
 📊 Weekly development breakdown
