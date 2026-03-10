@@ -3,12 +3,12 @@
 
 <div align="left">
 
-<sub>Full-time Lead Test Automation Engineer (enterprise environment) and independent Software and AI consultant.<br>
+Full-time Lead Test Automation Engineer (enterprise environment) and independent Software and AI consultant.<br>
 I help teams reduce regression risk, accelerate release cycles, and
 build maintainable engineering ecosystems.
 Based in Poland (CET/CEST), available for international
 collaboration.   Experience with global banking, fintech, e‑commerce, and airline systems. Collaborated with big tech and startups. Prepared pocs, worked in scrum team, kanban team and alone.
-</sub>
+
 
 ---
 
@@ -61,8 +61,3 @@ Markdown          10 mins               ▓░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
----
-<sub>Test Automation · QA Architecture · Backend Engineering · AI Tooling ·
-CI/CD · API Testing · Java · Python · Playwright · Selenium · Spring
-Boot · Security Testing · OWASP · SaaS Systems · AI Engineering · Testing of AI systems
-· Test Automation Engineer · Test Automation Architect · Backend Developer · AI Integration · LLM Automation</sub>
