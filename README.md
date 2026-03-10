@@ -1,18 +1,17 @@
-<h2 align="center">Software & AI Engineer | Test automation architect</h3>
-<h3 align="center">📩Contact: reeveecommission (at) gmail (dot) com </h3>
+##### Software engineer | AI Engineer | Automation engineer | Test automation architect
+<h5 align="left">📩Contact: reeveecommission (at) gmail (dot) com </h5>
 
-<div align="center">
-Full-time Lead Test Automation Engineer (enterprise environment) & independent Software and AI consultant.<br>
+<div align="left">
+Full-time Lead Test Automation Engineer (enterprise environment) and independent Software and AI consultant.<br>
 I help teams reduce regression risk, accelerate release cycles, and
 build maintainable engineering ecosystems.<br>  
 Based in Poland (CET/CEST), available for international
-collaboration.   Experience with global banking, fintech, e‑commerce, and airline systems.
+collaboration.   Experience with global banking, fintech, e‑commerce, and airline systems. Collaborated with big tech and startups. Prepared pocs, worked in scrum team, kanban team and alone.
 </div>
 
 ---
 
-#### Services - 53 USD/hour
-
+###### frelance services - 53 USD/hour
 -   End-to-end test automation architecture
 -   Backend & API validation
 -   Framework design & implementation
@@ -26,16 +25,13 @@ I work with project-based collaboration, hourly consulting and long-term technic
   
 ---
 
-#### Volume packages
-
+###### Volume packages
 -   10-hour prepaid package - 47 USD/hour
--   25-hour prepaid package - 45 USD/hour
-
-
+-   25-hour prepaid package - 45 USD/hour  
+  Please contact me by email to ask for custom pricing and packages dependent on tech and amount of time needed.
 ---
 
-#### Business Information
-
+###### Business information
 I operate as a registered business entity and issue VAT
 invoices.  
 All rates are net amounts.
@@ -47,14 +43,9 @@ Clients outside the European Union: VAT not applicable
 
 ---
 
-#### How I work
-
--   Fast onboarding
--   Clear communication
--   Clean, maintainable architecture with technical documentation and knowledge transfer
--   Outcome-driven execution
--   Long-term scalability focus
-
+###### How I work
+My values are fast onboarding, clear communication nd maintainable architecture with technical documentation and knowledge transfer.
+I propose metrics and KPI to measure my work. Outcome-driven execution. Long-term scalability focus.  
 Technically demanding challenge? Let's do it together.
 
 ---
