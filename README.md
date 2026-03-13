@@ -53,11 +53,11 @@ Technically demanding challenge? Let's do it together.</sub>
 <!--START_SECTION:waka-->
 
 ```txt
-Other             3 hrs 53 mins         ██████████░░░░░░░░░░░░░░░   40.41 %
-Java              2 hrs 39 mins         ███████░░░░░░░░░░░░░░░░░░   27.51 %
-Gherkin           1 hr 46 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
-Python            47 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-YAML              13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Other             3 hrs 4 mins          ████████▓░░░░░░░░░░░░░░░░   34.96 %
+Java              2 hrs 49 mins         ████████░░░░░░░░░░░░░░░░░   32.17 %
+Gherkin           1 hr 50 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+Python            33 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+YAML              13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
