@@ -49,7 +49,7 @@ Technically demanding challenge? Let's do it together.</sub>
 ---
 
 ###### Weekly development breakdown  
-<sub>"Other" primarily represents research and planning.</sub>
+
 <!--START_SECTION:waka-->
 
 ```txt
