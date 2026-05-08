@@ -1,6 +1,6 @@
 ##### Software engineer | AI Engineer | Automation engineer | Test automation architect
 ###### 📩Contact: reeveecommission (at) gmail (dot) com
-[<img src="images/logo22.jpg" width="200">](https://mwyrzykowska.dev)
+[<img src="images/logo22.jpg" width="400">](https://mwyrzykowska.dev)
 
 <div align="left">
 
