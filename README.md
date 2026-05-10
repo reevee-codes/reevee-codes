@@ -26,13 +26,15 @@ collaboration.   Experience with global banking, fintech, e‑commerce, and airl
 -   Reliability & security-focused testing (OWASP-aligned)
 ```
 
-</details>
+
 <sub>
 Custom technical engagements available upon request.  
 I work with project-based collaboration, hourly consulting and long-term technical partnership.  
 </sub>
+</details>
 
 ---
+
 <details>
   <summary>Business information</summary>
   <p><sub>I operate as a registered business entity and issue VAT
