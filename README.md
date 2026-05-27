@@ -63,11 +63,11 @@ Technically demanding challenge? Let's do it together.</sub></p>
 <!--START_SECTION:waka-->
 
 ```txt
-Java       1 hr 3 mins           ██████████████████░░░░░░░   71.53 %
-Text       11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-Markdown   10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-JSON       2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-YAML       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Java              2 hrs 10 mins         █████████████████░░░░░░░░   68.42 %
+Markdown          28 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Gherkin           23 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Properties        4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Bash              2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
