@@ -63,10 +63,10 @@ Technically demanding challenge? Let's do it together.</sub></p>
 <!--START_SECTION:waka-->
 
 ```txt
-Other            11 hrs 42 mins        ██████████████████▒░░░░░░   73.34 %
-Java             3 hrs 40 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
-Python           25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Markdown         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other            11 hrs 40 mins        ███████████████████░░░░░░   76.05 %
+Java             3 hrs 5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+Python           25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Markdown         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 GitIgnore file   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
