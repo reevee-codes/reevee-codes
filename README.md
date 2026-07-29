@@ -22,7 +22,7 @@ collaboration.   Experience with global banking, fintech, e‑commerce, and airl
 -   Framework design & implementation
 -   Java & Python software development
 -   no code/low code automation tools
--   AI-powered tooling & intelligent workflows
+-   AI powered tooling & intelligent workflows
 -   Reliability & security-focused testing (OWASP-aligned)
 ```
 
