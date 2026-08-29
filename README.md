@@ -63,11 +63,11 @@ Technically demanding challenge? Let's do it together.</sub></p>
 <!--START_SECTION:waka-->
 
 ```txt
-Other             4 hrs 46 mins         █████████░░░░░░░░░░░░░░░░   35.70 %
-Gherkin           4 hrs 15 mins         ████████░░░░░░░░░░░░░░░░░   31.81 %
-Java              2 hrs 58 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
-Properties        27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Markdown          16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Other             3 hrs 52 mins         █████████░░░░░░░░░░░░░░░░   36.53 %
+Gherkin           3 hrs 52 mins         █████████░░░░░░░░░░░░░░░░   36.51 %
+Java              1 hr 57 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+Properties        29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Markdown          12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
